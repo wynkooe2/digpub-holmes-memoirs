@@ -1,9 +1,18 @@
 p {
-    font-family: sans-serif; 
-}
-h1 {
-    font-family: sans-serif; 
+    font-family: "Goudy Old Style", "Garamond", serif;
 }
 h2 {
-    font-family: sans-serif; 
+    font-family: "Goudy Old Style", "Garamond", serif;
 }
+figcaption {
+    font-family: "Bodoni 72 Smallcaps";
+}
+footer {
+    font-family: "Comic Sans MS";
+}
+.opening {
+    font-family: "Lucida Calligraphy";
+}
+img {
+    width: 30%;
+    padding : 10px 60px 10 px 10000px;

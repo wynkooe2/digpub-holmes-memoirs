@@ -1,8 +1,15 @@
 p, h1, h2, h3 figure, figcaption {
     font-family: Georgia;
+    margin: 1em 10em;
 }
 
 figure, figcaption {
     font-style: italic;
     color: darkslategray;
+    text-align: center;
+}
+
+p {
+    text-indent: 1em;
+    line-height: 1.5em;
 }

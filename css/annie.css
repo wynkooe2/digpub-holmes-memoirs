@@ -1,0 +1,31 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 80;
+    text-indent: 3%;
+
+}
+h2 {
+    font-family: cursive;
+    font-size: 350%;
+    text-decoration: underline;
+}
+figcaption {
+    font-family: cursive;
+}
+
+b {
+    font-size: larger;
+}
+
+.continued-paragraph {
+    text-indent: 0%;
+}
+
+ol {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+img {
+    width: 50%;
+
+}

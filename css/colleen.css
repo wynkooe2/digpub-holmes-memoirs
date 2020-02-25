@@ -1,0 +1,36 @@
+h2{
+    font-family: georgia;
+    color: darkorange;
+    font-style: oblique;
+    font-variant: small-caps;
+    font-size: 60;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+p{
+    font-style: bold;
+    color: blueviolet;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+figcaption {
+    font-weight: 500;
+    font-style: oblique;
+    font-variant: small-caps ;
+}
+
+strong{
+    font-size: 50;
+    font-weight: 700;
+    font-style: initial;
+}
+
+i {
+    color: firebrick;
+    font-variant: inherit;
+}
+
+img {
+    width: 35%
+}

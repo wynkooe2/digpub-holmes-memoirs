@@ -1,0 +1,8 @@
+p, h1, h2, h3 figure, figcaption {
+    font-family: Georgia;
+}
+
+figure, figcaption {
+    font-style: italic;
+    color: darkslategray;
+}
